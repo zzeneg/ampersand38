@@ -4,3 +4,12 @@
 [submodule "lib/Type-C.pretty"]
 	path = lib/Type-C.pretty
 	url = ../../ai03-2725/Type-C.pretty.git
+[submodule "lib/Keebio-Parts.pretty"]
+	path = lib/Keebio-Parts.pretty
+	url = ../../keebio/Keebio-Parts.pretty.git
+[submodule "lib/marbastlib"]
+	path = lib/marbastlib
+	url = ../../ebastler/marbastlib.git
+[submodule "lib/keyswitch-kicad-library"]
+	path = lib/keyswitch-kicad-library
+	url = ../../perigoso/keyswitch-kicad-library.git

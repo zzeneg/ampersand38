@@ -1,0 +1,8 @@
+(fp_lib_table
+  (lib (name "kbd")(type "KiCad")(uri "${KIPRJMOD}/../lib/kbd/kicad-footprints/kbd.pretty")(options "")(descr ""))
+  (lib (name "typec")(type "KiCad")(uri "${KIPRJMOD}/../lib/Type-C.pretty")(options "")(descr ""))
+  (lib (name "keebio")(type "KiCad")(uri "${KIPRJMOD}/../lib/Keebio-Parts.pretty")(options "")(descr ""))
+  (lib (name "marbastlib-mx")(type "KiCad")(uri "${KIPRJMOD}/../lib/marbastlib/marbastlib-mx.pretty")(options "")(descr ""))
+  (lib (name "marbastlib-various")(type "KiCad")(uri "${KIPRJMOD}/../lib/marbastlib/marbastlib-various.pretty")(options "")(descr ""))
+  (lib (name "ampersand")(type "KiCad")(uri "${KIPRJMOD}/../footprints")(options "")(descr ""))
+)
